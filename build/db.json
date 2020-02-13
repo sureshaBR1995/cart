@@ -1,0 +1,24 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "sku": 18644119330491312,
+        "title": "T-Shirt",
+        "description": "Grey shirt for felightian",
+        "availableSizes": ["X", "L", "XL", "XXL"],
+        "price": 100,
+        "isFreeShipping": true
+      },
+  
+      {
+        "id": 2,
+        "sku": 11854078013954528,
+        "title": "Grey T-Shirt for felightian",
+        "description": " Grey",
+        "availableSizes": ["X", "M", "L"],
+        "price": 149,
+        "isFreeShipping": true
+      }
+  
+    ]
+  }   

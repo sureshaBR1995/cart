@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "git@github.com:sureshaBR1995/cart.git/static/css/main.ad2548c6.chunk.css",
+    "main.js": "git@github.com:sureshaBR1995/cart.git/static/js/main.13bc4347.chunk.js",
+    "main.js.map": "git@github.com:sureshaBR1995/cart.git/static/js/main.13bc4347.chunk.js.map",
+    "runtime-main.js": "git@github.com:sureshaBR1995/cart.git/static/js/runtime-main.163a1502.js",
+    "runtime-main.js.map": "git@github.com:sureshaBR1995/cart.git/static/js/runtime-main.163a1502.js.map",
+    "static/js/2.1460a2de.chunk.js": "git@github.com:sureshaBR1995/cart.git/static/js/2.1460a2de.chunk.js",
+    "static/js/2.1460a2de.chunk.js.map": "git@github.com:sureshaBR1995/cart.git/static/js/2.1460a2de.chunk.js.map",
+    "index.html": "git@github.com:sureshaBR1995/cart.git/index.html",
+    "precache-manifest.a1b328433c2ea0213f735888de545872.js": "git@github.com:sureshaBR1995/cart.git/precache-manifest.a1b328433c2ea0213f735888de545872.js",
+    "service-worker.js": "git@github.com:sureshaBR1995/cart.git/service-worker.js",
+    "static/css/main.ad2548c6.chunk.css.map": "git@github.com:sureshaBR1995/cart.git/static/css/main.ad2548c6.chunk.css.map",
+    "static/js/2.1460a2de.chunk.js.LICENSE.txt": "git@github.com:sureshaBR1995/cart.git/static/js/2.1460a2de.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.163a1502.js",
+    "static/js/2.1460a2de.chunk.js",
+    "static/css/main.ad2548c6.chunk.css",
+    "static/js/main.13bc4347.chunk.js"
+  ]
+}
