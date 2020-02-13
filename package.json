@@ -1,8 +1,7 @@
 {
   "name": "shopping-cart",
   "version": "0.1.0",
-  "private": true,
-  "homepage": "git@github.com:sureshaBR1995/cart.git",
+  "homepage": "https://sureshabr1995.github.io/shopping-cart",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
